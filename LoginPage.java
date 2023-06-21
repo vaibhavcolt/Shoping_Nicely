@@ -250,10 +250,6 @@ public class LoginPage extends javax.swing.JFrame {
     }
        
 
-    private void jTextField1ActionPerformed(java.awt.event.ActionEvent evt) {
-        
-    }
-
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {
        
         if(isEmpty()){
