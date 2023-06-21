@@ -1,7 +1,7 @@
 
 package shoping.cart;
 
-//import com.sun.jdi.connect.spi.Connection;
+
 import Connection.MyConnection;
 import java.awt.event.*;
 import javax.swing.JOptionPane;
@@ -12,9 +12,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 public class LoginPage extends javax.swing.JFrame {
 
-    /**
-     * Creates new form LoginPage
-     */
+  
     public LoginPage() {
         initComponents();
     }
@@ -30,9 +28,7 @@ public class LoginPage extends javax.swing.JFrame {
          }
           return true;
      }
-  
-    @SuppressWarnings("unchecked")
-    // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
+
     private void initComponents() {
 
         jScrollPane1 = new javax.swing.JScrollPane();
@@ -251,15 +247,15 @@ public class LoginPage extends javax.swing.JFrame {
         getContentPane().add(jPanel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(300, 0, 400, 570));
 
         pack();
-    }// </editor-fold>//GEN-END:initComponents
+    }
        
 
-    private void jTextField1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField1ActionPerformed
-        // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField1ActionPerformed
+    private void jTextField1ActionPerformed(java.awt.event.ActionEvent evt) {
+        
+    }
 
-    private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
-        // TODO add your handling code here:
+    private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {
+       
         if(isEmpty()){
             String email = jTextField1.getText();
             String password = String.valueOf(jPasswordField1.getPassword());
@@ -273,49 +269,38 @@ public class LoginPage extends javax.swing.JFrame {
                    Logger.getLogger(MyConnection.class.getName()).log(Level.SEVERE, null, ex);
                 }
         }
-    }//GEN-LAST:event_jButton2ActionPerformed
-
-    private void jButton3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton3ActionPerformed
-        // TODO add your handling code here:
+    }
+    private void jButton3ActionPerformed(java.awt.event.ActionEvent evt) {
+      
          new RegisterPage().setVisible(true);
          this.dispose();
-    }//GEN-LAST:event_jButton3ActionPerformed
+    }
 
-    private void jButton1MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jButton1MouseClicked
-        // TODO add your handling code here:
+    private void jButton1MouseClicked(java.awt.event.MouseEvent evt) {
+    
            new ForgotPassword().setVisible(true);
-           this.dispose();
-    }//GEN-LAST:event_jButton1MouseClicked
-
-    private void jButton2MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jButton2MouseClicked
-        // TODO add your handling code here:
+           this.dispose();MouseClicked(java.awt.event.MouseEvent evt) {
+   
         new ShopingPage().setVisible(true);
         this.dispose();
-    }//GEN-LAST:event_jButton2MouseClicked
-
-    private void jLabel9MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jLabel9MouseClicked
-        // TODO add your handling code here:
+    }
+    private void jLabel9MouseClicked(java.awt.event.MouseEvent evt) {
+        
         jPasswordField1.setEchoChar((char) 0);
         jLabel8.setVisible(true);
         jLabel9.setVisible(false);
-    }//GEN-LAST:event_jLabel9MouseClicked
+    }
 
-    private void jLabel8MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jLabel8MouseClicked
-        // TODO add your handling code here:
+    private void jLabel8MouseClicked(java.awt.event.MouseEvent evt) {
+       
         jPasswordField1.setEchoChar('*');
         jLabel8.setVisible(false);
         jLabel9.setVisible(true);
-    }//GEN-LAST:event_jLabel8MouseClicked
+    }
 
-    /**
-     * @param args the command line arguments
-     */
+    
     public static void main(String args[]) {
-        /* Set the Nimbus look and feel */
-        //<editor-fold defaultstate="collapsed" desc=" Look and feel setting code (optional) ">
-        /* If Nimbus (introduced in Java SE 6) is not available, stay with the default look and feel.
-         * For details see http://download.oracle.com/javase/tutorial/uiswing/lookandfeel/plaf.html 
-         */
+       
         try {
             for (javax.swing.UIManager.LookAndFeelInfo info : javax.swing.UIManager.getInstalledLookAndFeels()) {
                 if ("Nimbus".equals(info.getName())) {
@@ -332,9 +317,7 @@ public class LoginPage extends javax.swing.JFrame {
         } catch (javax.swing.UnsupportedLookAndFeelException ex) {
             java.util.logging.Logger.getLogger(LoginPage.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         }
-        //</editor-fold>
-
-        /* Create and display the form */
+       
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
                 new LoginPage().setVisible(true);
@@ -342,7 +325,7 @@ public class LoginPage extends javax.swing.JFrame {
         });
     }
 
-    // Variables declaration - do not modify//GEN-BEGIN:variables
+
     private javax.swing.JButton jButton1;
     private javax.swing.JButton jButton2;
     private javax.swing.JButton jButton3;
@@ -361,11 +344,6 @@ public class LoginPage extends javax.swing.JFrame {
     private javax.swing.JPasswordField jPasswordField1;
     private javax.swing.JScrollPane jScrollPane1;
     private javax.swing.JTextField jTextField1;
-    // End of variables declaration//GEN-END:variables
 
-    private static class SQLException {
-
-        public SQLException() {
-        }
     }
 }
