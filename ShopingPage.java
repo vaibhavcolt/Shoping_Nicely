@@ -14,8 +14,7 @@ public class ShopingPage extends javax.swing.JFrame {
             JOptionPane.showMessageDialog(null,"Please select quantity");
         }
     }
-    @SuppressWarnings("unchecked")
-    // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
+
     private void initComponents() {
 
         jPanel3 = new javax.swing.JPanel();
@@ -132,16 +131,16 @@ public class ShopingPage extends javax.swing.JFrame {
         jPanel4.setBackground(new java.awt.Color(1, 140, 99));
         jPanel4.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED, null, java.awt.Color.green, java.awt.Color.green, null));
 
-        jLabel9.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
+        jLabel9.setFont(new java.awt.Font("Segoe UI", 1, 12)); 
         jLabel9.setText("Price  ");
 
-        jLabel10.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
+        jLabel10.setFont(new java.awt.Font("Segoe UI", 1, 12)); 
         jLabel10.setText("Name       ");
 
-        jLabel11.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
+        jLabel11.setFont(new java.awt.Font("Segoe UI", 1, 12));
         jLabel11.setText("Quantity");
 
-        jLabel12.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
+        jLabel12.setFont(new java.awt.Font("Segoe UI", 1, 12));
         jLabel12.setText("Purchase");
 
         jLabel13.setText("Shoes");
@@ -202,16 +201,16 @@ public class ShopingPage extends javax.swing.JFrame {
         jPanel2.setBackground(new java.awt.Color(1, 140, 99));
         jPanel2.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED, null, java.awt.Color.green, java.awt.Color.green, null));
 
-        jLabel3.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
+        jLabel3.setFont(new java.awt.Font("Segoe UI", 1, 12));
         jLabel3.setText("Price  ");
 
-        jLabel4.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
+        jLabel4.setFont(new java.awt.Font("Segoe UI", 1, 12)); 
         jLabel4.setText("Name       ");
 
-        jLabel5.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
+        jLabel5.setFont(new java.awt.Font("Segoe UI", 1, 12));
         jLabel5.setText("Quantity");
 
-        jLabel6.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
+        jLabel6.setFont(new java.awt.Font("Segoe UI", 1, 12));
         jLabel6.setText("Purchase");
 
         jLabel7.setText("Shoes");
@@ -293,16 +292,16 @@ public class ShopingPage extends javax.swing.JFrame {
         jPanel5.setBackground(new java.awt.Color(1, 140, 99));
         jPanel5.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED, null, java.awt.Color.green, java.awt.Color.green, null));
 
-        jLabel15.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
+        jLabel15.setFont(new java.awt.Font("Segoe UI", 1, 12)); 
         jLabel15.setText("Price  ");
 
-        jLabel16.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
+        jLabel16.setFont(new java.awt.Font("Segoe UI", 1, 12));
         jLabel16.setText("Name       ");
 
-        jLabel17.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
+        jLabel17.setFont(new java.awt.Font("Segoe UI", 1, 12)); 
         jLabel17.setText("Quantity");
 
-        jLabel18.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
+        jLabel18.setFont(new java.awt.Font("Segoe UI", 1, 12));
         jLabel18.setText("Purchase");
 
         jLabel19.setText("Shoes");
@@ -369,16 +368,16 @@ public class ShopingPage extends javax.swing.JFrame {
         jPanel6.setBackground(new java.awt.Color(1, 140, 99));
         jPanel6.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED, null, java.awt.Color.green, java.awt.Color.green, null));
 
-        jLabel21.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
+        jLabel21.setFont(new java.awt.Font("Segoe UI", 1, 12));
         jLabel21.setText("Price  ");
 
-        jLabel22.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
+        jLabel22.setFont(new java.awt.Font("Segoe UI", 1, 12)); 
         jLabel22.setText("Name       ");
 
-        jLabel23.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
+        jLabel23.setFont(new java.awt.Font("Segoe UI", 1, 12));
         jLabel23.setText("Quantity");
 
-        jLabel24.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
+        jLabel24.setFont(new java.awt.Font("Segoe UI", 1, 12));
         jLabel24.setText("Purchase");
 
         jLabel25.setText("Shoes");
@@ -445,16 +444,16 @@ public class ShopingPage extends javax.swing.JFrame {
         jPanel7.setBackground(new java.awt.Color(1, 140, 99));
         jPanel7.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED, null, java.awt.Color.green, java.awt.Color.green, null));
 
-        jLabel27.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
+        jLabel27.setFont(new java.awt.Font("Segoe UI", 1, 12)); 
         jLabel27.setText("Price  ");
 
-        jLabel28.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
+        jLabel28.setFont(new java.awt.Font("Segoe UI", 1, 12));
         jLabel28.setText("Name       ");
 
-        jLabel29.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
+        jLabel29.setFont(new java.awt.Font("Segoe UI", 1, 12)); 
         jLabel29.setText("Quantity");
 
-        jLabel30.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
+        jLabel30.setFont(new java.awt.Font("Segoe UI", 1, 12)); 
         jLabel30.setText("Purchase");
 
         jLabel31.setText("Shoes");
@@ -522,16 +521,16 @@ public class ShopingPage extends javax.swing.JFrame {
         jPanel8.setBackground(new java.awt.Color(1, 140, 99));
         jPanel8.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED, null, java.awt.Color.green, java.awt.Color.green, null));
 
-        jLabel33.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
+        jLabel33.setFont(new java.awt.Font("Segoe UI", 1, 12)); 
         jLabel33.setText("Price  ");
 
-        jLabel34.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
+        jLabel34.setFont(new java.awt.Font("Segoe UI", 1, 12)); 
         jLabel34.setText("Name       ");
 
-        jLabel35.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
+        jLabel35.setFont(new java.awt.Font("Segoe UI", 1, 12));
         jLabel35.setText("Quantity");
 
-        jLabel36.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
+        jLabel36.setFont(new java.awt.Font("Segoe UI", 1, 12)); 
         jLabel36.setText("Purchase");
 
         jLabel37.setText("Shoes");
@@ -599,16 +598,16 @@ public class ShopingPage extends javax.swing.JFrame {
         jPanel10.setBackground(new java.awt.Color(1, 140, 99));
         jPanel10.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED, null, java.awt.Color.green, java.awt.Color.green, null));
 
-        jLabel45.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
+        jLabel45.setFont(new java.awt.Font("Segoe UI", 1, 12)); 
         jLabel45.setText("Price  ");
 
-        jLabel46.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
+        jLabel46.setFont(new java.awt.Font("Segoe UI", 1, 12)); 
         jLabel46.setText("Name       ");
 
-        jLabel47.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
+        jLabel47.setFont(new java.awt.Font("Segoe UI", 1, 12)); 
         jLabel47.setText("Quantity");
 
-        jLabel48.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
+        jLabel48.setFont(new java.awt.Font("Segoe UI", 1, 12));
         jLabel48.setText("Purchase");
 
         jLabel49.setText("Shoes");
@@ -674,16 +673,16 @@ public class ShopingPage extends javax.swing.JFrame {
         jPanel11.setBackground(new java.awt.Color(1, 140, 99));
         jPanel11.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED, null, java.awt.Color.green, java.awt.Color.green, null));
 
-        jLabel51.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
+        jLabel51.setFont(new java.awt.Font("Segoe UI", 1, 12));
         jLabel51.setText("Price  ");
 
-        jLabel52.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
+        jLabel52.setFont(new java.awt.Font("Segoe UI", 1, 12)); 
         jLabel52.setText("Name       ");
 
-        jLabel53.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
+        jLabel53.setFont(new java.awt.Font("Segoe UI", 1, 12)); 
         jLabel53.setText("Quantity");
 
-        jLabel54.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
+        jLabel54.setFont(new java.awt.Font("Segoe UI", 1, 12)); 
         jLabel54.setText("Purchase");
 
         jLabel55.setText("Shoes");
@@ -750,16 +749,16 @@ public class ShopingPage extends javax.swing.JFrame {
         jPanel12.setBackground(new java.awt.Color(1, 140, 99));
         jPanel12.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED, null, java.awt.Color.green, java.awt.Color.green, null));
 
-        jLabel57.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
+        jLabel57.setFont(new java.awt.Font("Segoe UI", 1, 12)); 
         jLabel57.setText("Price  ");
 
-        jLabel58.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
+        jLabel58.setFont(new java.awt.Font("Segoe UI", 1, 12));
         jLabel58.setText("Name       ");
 
-        jLabel59.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
+        jLabel59.setFont(new java.awt.Font("Segoe UI", 1, 12));
         jLabel59.setText("Quantity");
 
-        jLabel60.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
+        jLabel60.setFont(new java.awt.Font("Segoe UI", 1, 12)); 
         jLabel60.setText("Purchase");
 
         jLabel61.setText("Shoes");
@@ -826,7 +825,7 @@ public class ShopingPage extends javax.swing.JFrame {
         jPanel13.setBackground(new java.awt.Color(59, 197, 63));
 
         jButton2.setBackground(new java.awt.Color(140, 245, 214));
-        jButton2.setFont(new java.awt.Font("Verdana", 1, 18)); // NOI18N
+        jButton2.setFont(new java.awt.Font("Verdana", 1, 18)); 
         jButton2.setForeground(new java.awt.Color(0, 0, 0));
         jButton2.setText("Add To Wish List");
         jButton2.addActionListener(new java.awt.event.ActionListener() {
@@ -836,7 +835,7 @@ public class ShopingPage extends javax.swing.JFrame {
         });
 
         jButton3.setBackground(new java.awt.Color(140, 245, 214));
-        jButton3.setFont(new java.awt.Font("Verdana", 1, 18)); // NOI18N
+        jButton3.setFont(new java.awt.Font("Verdana", 1, 18));
         jButton3.setForeground(new java.awt.Color(0, 0, 0));
         jButton3.setText("Order");
         jButton3.addMouseListener(new java.awt.event.MouseAdapter() {
@@ -872,7 +871,7 @@ public class ShopingPage extends javax.swing.JFrame {
         );
 
         jLabel63.setFont(new java.awt.Font("Segoe UI", 0, 18)); // NOI18N
-        jLabel63.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icons_mysqlConnector/icons/edit_user.png"))); // NOI18N
+        jLabel63.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icons_mysqlConnector/icons/edit_user.png")));
         jLabel63.setText("Dashboard");
         jLabel63.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -960,71 +959,33 @@ public class ShopingPage extends javax.swing.JFrame {
         );
 
         pack();
-    }// </editor-fold>//GEN-END:initComponents
+    }
 
    
-    private void jCheckBox2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jCheckBox2ActionPerformed
-        // TODO add your handling code here:
-    }//GEN-LAST:event_jCheckBox2ActionPerformed
 
-    private void jCheckBox4ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jCheckBox4ActionPerformed
-        // TODO add your handling code here:
-    }//GEN-LAST:event_jCheckBox4ActionPerformed
-
-    private void jCheckBox3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jCheckBox3ActionPerformed
-        // TODO add your handling code here:
-    }//GEN-LAST:event_jCheckBox3ActionPerformed
-
-    private void jCheckBox1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jCheckBox1ActionPerformed
-        // TODO add your handling code here:
+ 
+    private void jCheckBox1ActionPerformed(java.awt.event.ActionEvent evt) {
+       
         zeroQuantity();
-    }//GEN-LAST:event_jCheckBox1ActionPerformed
+    }
 
-    private void jCheckBox5ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jCheckBox5ActionPerformed
-        // TODO add your handling code here:
-    }//GEN-LAST:event_jCheckBox5ActionPerformed
+ 
 
-    private void jCheckBox6ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jCheckBox6ActionPerformed
-        // TODO add your handling code here:
-    }//GEN-LAST:event_jCheckBox6ActionPerformed
 
-    private void jCheckBox8ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jCheckBox8ActionPerformed
-        // TODO add your handling code here:
-    }//GEN-LAST:event_jCheckBox8ActionPerformed
-
-    private void jCheckBox9ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jCheckBox9ActionPerformed
-        // TODO add your handling code here:
-    }//GEN-LAST:event_jCheckBox9ActionPerformed
-
-    private void jCheckBox10ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jCheckBox10ActionPerformed
-        // TODO add your handling code here:
-    }//GEN-LAST:event_jCheckBox10ActionPerformed
-
-    private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
-        // TODO add your handling code here:
-    }//GEN-LAST:event_jButton2ActionPerformed
-
-    private void jLabel63MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jLabel63MouseClicked
-        // TODO add your handling code her
+    private void jLabel63MouseClicked(java.awt.event.MouseEvent evt) {
+       
        new Dashboard().setVisible(true);
        this.dispose();
-    }//GEN-LAST:event_jLabel63MouseClicked
+    }
 
-    private void jButton3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton3ActionPerformed
-        // TODO add your handling code here:
-    }//GEN-LAST:event_jButton3ActionPerformed
-
-    private void jButton3MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jButton3MouseClicked
-        // TODO add your handling code here:
+  
+    private void jButton3MouseClicked(java.awt.event.MouseEvent evt) {
+  
         new Dashboard().setVisible(true);
-    }//GEN-LAST:event_jButton3MouseClicked
+    }
 
     public static void main(String args[]) {
-        /* Set the Nimbus look and feel */
-        //<editor-fold defaultstate="collapsed" desc=" Look and feel setting code (optional) ">
-        /* If Nimbus (introduced in Java SE 6) is not available, stay with the default look and feel.
-         * For details see http://download.oracle.com/javase/tutorial/uiswing/lookandfeel/plaf.html 
-         */
+     
         try {
             for (javax.swing.UIManager.LookAndFeelInfo info : javax.swing.UIManager.getInstalledLookAndFeels()) {
                 if ("Nimbus".equals(info.getName())) {
@@ -1041,10 +1002,7 @@ public class ShopingPage extends javax.swing.JFrame {
         } catch (javax.swing.UnsupportedLookAndFeelException ex) {
             java.util.logging.Logger.getLogger(ShopingPage.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         }
-        //</editor-fold>
-        //</editor-fold>
-
-        /* Create and display the form */
+      
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
                 new ShopingPage().setVisible(true);
@@ -1052,7 +1010,7 @@ public class ShopingPage extends javax.swing.JFrame {
         });
     }
 
-    // Variables declaration - do not modify//GEN-BEGIN:variables
+  
     private javax.swing.JButton jButton2;
     private javax.swing.JButton jButton3;
     private javax.swing.JCheckBox jCheckBox1;
@@ -1152,5 +1110,5 @@ public class ShopingPage extends javax.swing.JFrame {
     private javax.swing.JSpinner jSpinner8;
     private javax.swing.JSpinner jSpinner9;
     private javax.swing.JTextField jTextField1;
-    // End of variables declaration//GEN-END:variables
+  
 }
